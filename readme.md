@@ -1,34 +1,50 @@
 # Student Management System (Java)
 
-## 📌 Project Overview
+This project is a simple console-based Student Management System developed using Java.  
+It was built to practice Object-Oriented Programming concepts and basic CRUD operations.
 
-This is a console-based Student Management System developed in Java.
-The application allows users to manage student records efficiently using Object-Oriented Programming (OOP) concepts.
+The application allows users to manage student records through a menu-driven interface.
 
-## 🚀 Features
+## Features
 
-- Add new students
-- View all student records
-- Search student by ID
-- Update student details
-- Delete student record
-- Prevent duplicate student IDs
+- Add new student details  
+- View all students  
+- Search student by ID  
+- Update student information  
+- Delete student record  
+- Prevent duplicate student IDs  
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Java
 - VS Code
-- ArrayList (Data Structure)
+- ArrayList (for storing student data)
 
-## 💡 Concepts Applied
+## How to Run
 
-- OOP (Classes & Objects)
+1. Open the project folder in VS Code
+2. Navigate to the src folder
+3. Compile the program:
+   javac Main.java
+4. Run the program:
+   java Main
+
+## Project Structure
+
+Student-Management-System-Java/
+│
+├── src/
+│   └── Main.java
+│
+└── README.md
+
+## Purpose of the Project
+
+This project was created as a mini academic project to strengthen understanding of:
+- Classes and Objects
 - Encapsulation
-- ArrayList
-- Loops & Conditional Statements
+- Collections in Java
 - Menu-driven programming
 
-## 📂 Project Structure
 
-src/
-└── Main.java
+
